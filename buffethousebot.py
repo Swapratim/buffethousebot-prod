@@ -149,7 +149,7 @@ def welcome():
                  "text": "I'm the chatbot at your service."
                 },
                 {
-                  "text": "Please select your language",
+                  "text": "Please select your language to proceed",
                   "quick_replies": [
                  {
                   "content_type": "text",
@@ -923,7 +923,7 @@ def engDefaultMenuTakeAway(reqContext):
                 "text": "People love to take away our food to enjoy at home"
                },
                {
-                "text": "That’s why we have created special packages for take away."
+                "text": "That’s why we have created special packages for take away"
                },
                {
                     "sender_action": "typing_on"
@@ -1110,6 +1110,9 @@ def engDefaultMenuOrderBooking(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
+                "text": "Order food online and get 20% OFF!!!"
+               },
+                {
                  "attachment":{
                         "type":"image", 
                         "payload":{
@@ -1266,13 +1269,19 @@ def engDefaultMenuContactUs(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
-                 "text": "We are located within walking distance of Rutebilstation and Dokk1"
+                "text": "We're located at: Spanien 11, 8000 Aarhus C"
                 },
                 {
                     "sender_action": "typing_on"
                 },
                 {
-                 "text": "We also have sufficient parking facility, so don’t hesitate to bring your group for best Indian dining in Aarhus."
+                 "text": "It's within walking distance from Rutebilstation and Dokk1"
+                },
+                {
+                    "sender_action": "typing_on"
+                },
+                {
+                 "text": "We also have sufficient parking facility, so don’t hesitate to bring family, friends or colleagues for best Indian dining experience"
                 },
                 {
                     "sender_action": "typing_on"
@@ -2277,7 +2286,10 @@ def danDefaultMenuOrderBooking(reqContext):
                         "url":"http://gdurl.com/QFrQ"
                      }
                  }
-               },
+                },
+                {
+                 "text": "Bestil online og få 20% tilbud"
+                },
                 {
                    "attachment":{
                    "type":"template",
@@ -2433,13 +2445,19 @@ def danDefaultMenuContactUs(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
-                 "text": "Vi er beliggende inden for gåafstand fra Rutebilstation og Dokk1"
+                "text": "vi er placeret på: Spanien 11, 8000 Aarhus C"
                 },
                 {
                     "sender_action": "typing_on"
                 },
                 {
-                 "text": "Vi har også tilstrækkelig parkeringsplads, så tøv ikke med at bringe din gruppe til den bedste indiske spisestue i Århus."
+                 "text": "De er beliggende inden for gåafstand fra Rutebilstation og Dokk1"
+                },
+                {
+                    "sender_action": "typing_on"
+                },
+                {
+                 "text": "Vi har også tilstrækkelig parkeringsplads, så tøv ikke med at bringe din familen, gruppe eller kolleger til den bedste indiske spisestue erfaring"
                 },
                 {
                     "sender_action": "typing_on"
