@@ -1611,7 +1611,7 @@ def danishMenuCriteriaMenuBuffet (reqContext):
                     "sender_action": "typing_on"
                },
                {
-                "text": "For børn under 10 år er buffetprisen 59.- kun"
+                "text": "For børn under 10 år er buffetprisen kun 59.-"
                },
                
         {
