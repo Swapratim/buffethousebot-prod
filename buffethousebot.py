@@ -20,8 +20,8 @@ from flask import make_response
 # Flask should start in global layout
 context = Flask(__name__)
 # Facbook Access Token
-#ACCESS_TOKEN = "EAAbm5zlB8YEBAO6oY9MZCR4bRqlYnmmS9ORXMWMcYsxm8czZAtTsnfSKbkudpf6ekk8SdJeBNEZCPUrK8PRkwkGLVZAmcd9Imhk7gmMlyJ083EvXhH7wVf6DUVAa5gf1UgZC0rnX9e3aasMnC4137PqrHT7nbGHXdEsG2WKuZAjQZDZD"
-ACCESS_TOKEN = "EAAEnaAIO98MBAAQLCOZAIPcAb43dkaoseDkdkN07JpFqrgz1ojHdJkrc68Q3ZCZAteClpfvNMwfUYCa7W28VJDexIxOohZAV3jszWNAOZARMqZBARp6p0BUgUSZAdcjDXrsg3cQkTPpjnGlEfAMOUy3mTX2x7pkEZCZAnhBDn6tg4Nn2zZAc0ourQi"
+ACCESS_TOKEN = "EAAEnaAIO98MBAE2pL4vxCNkrnnMTavmZAakrPUouLjVQJtbURaisioiufG6u4GLJwEXickQcg7iukNXKbnP7b5x6hjahxsKhm1ZCevDlp3hXeH66FZAeWTW54bJpikbITvjORsSwQF3kaBWJZCeI1oYX7FfbCvpqtfszlt2M6kffAST6PZCGu"
+#ACCESS_TOKEN = "EAAEnaAIO98MBAAQLCOZAIPcAb43dkaoseDkdkN07JpFqrgz1ojHdJkrc68Q3ZCZAteClpfvNMwfUYCa7W28VJDexIxOohZAV3jszWNAOZARMqZBARp6p0BUgUSZAdcjDXrsg3cQkTPpjnGlEfAMOUy3mTX2x7pkEZCZAnhBDn6tg4Nn2zZAc0ourQi"
 #************************************************************************************#
 #                                                                                    #
 #    All Webhook requests lands within the method --webhook                          #
