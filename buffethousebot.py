@@ -365,6 +365,12 @@ def englishMenuCriteriaMenu(reqContext):
                    }
                 },
         {
+       "sender_action": "typing_on"
+        },
+        {
+      "text": "We serve halal food in here."
+        },
+        {
       "text": "To view other options, please click below options:",
       "quick_replies": [
         {
@@ -1536,6 +1542,12 @@ def danishMenuCriteriaMenu(reqContext):
                        } 
                    }
                 },
+         {
+       "sender_action": "typing_on"
+        },
+        {
+      "text": "Vi serverer halal mad herinde."
+        },
         {
       "text": "Vælg venligst et af nedenstående valgmuligheder:",
       "quick_replies": [
