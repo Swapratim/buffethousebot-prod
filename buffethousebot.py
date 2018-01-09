@@ -146,7 +146,7 @@ def welcome():
                     "sender_action": "typing_on"
                 },
                 {
-                 "text": "I'm the Maharaja at your service."
+                 "text": "I'm Maharaja, the virtual assistant - at your service."
                 },
                 {
                   "text": "Please select your language to proceed",
