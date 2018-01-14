@@ -957,101 +957,101 @@ def engDefaultMenuTakeAway(reqContext):
                                  {
                                    "title" : "M1-Butter Chicken & Sag Allo",
                                    "image_url" : "http://gdurl.com/ZuLh",
-                                   "subtitle" : "Available only at 79,-",
+                                   "subtitle" : "Available only at 79 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M2-Lamb Korma & Chicken Curry",
                                    "image_url" : "http://gdurl.com/x77y",
-                                   "subtitle" : "Available only at 79,-",
+                                   "subtitle" : "Available only at 79 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }],
                                  },
                                  {
                                    "title" : "M3-Beef Roganjosh & Chicken Kofta",
                                    "image_url" : "http://gdurl.com/2VdE",
-                                   "subtitle" : "Available only at 79,-",
+                                   "subtitle" : "Available only at 79 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M4-Chicken Tikka & Samosa",
                                    "image_url" : "http://gdurl.com/NkeOL",
-                                   "subtitle" : "Available only at 79,-",
+                                   "subtitle" : "Available only at 79 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M5-Kofta Butter Masala & Samosa (Veg)",
                                    "image_url" : "http://gdurl.com/Hq0P",
-                                   "subtitle" : "Available only at 89,-",
+                                   "subtitle" : "Available only at 89 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M6-Lamb Korma & Beef Roganjosh",
                                    "image_url" : "http://gdurl.com/ZuLh",
-                                   "subtitle" : "Available only at 89,-",
+                                   "subtitle" : "Available only at 89 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M7-Chicken Tikka & Beef Roganjosh",
                                    "image_url" : "http://gdurl.com/x77y",
-                                   "subtitle" : "Available only at 89,-",
+                                   "subtitle" : "Available only at 89 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M8-Beef Roganjosh & Chicken Curry",
                                    "image_url" : "http://gdurl.com/2VdE",
-                                   "subtitle" : "Available only at 89,-",
+                                   "subtitle" : "Available only at 89 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M9-Lamb Korma & Chicken Kofta",
                                    "image_url" : "http://gdurl.com/NkeOL",
-                                   "subtitle" : "Available only at 89,-",
+                                   "subtitle" : "Available only at 89 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M10-Kofta Curry & Samosa (Veg)",
                                    "image_url" : "http://gdurl.com/Hq0P",
-                                   "subtitle" : "Available only at 99,-",
+                                   "subtitle" : "Available only at 99 kr, FREE Delivery",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Order Now"
+                                        "type":"phone_number",
+                                        "title":"Order Now",
+                                        "payload": "+4570707649"
                                     }]
                                  }
                              ]
@@ -2133,101 +2133,101 @@ def danDefaultMenuTakeAway(reqContext):
                                  {
                                    "title" : "M1-Butter Chicken og Sag Allo",
                                    "image_url" : "http://gdurl.com/ZuLh",
-                                   "subtitle" : "Kun tilgængelig for 79,-",
+                                   "subtitle" : "Kun tilgængelig for 79 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M2-Lam Korma og Chicken Curry",
                                    "image_url" : "http://gdurl.com/x77y",
-                                   "subtitle" : "Kun tilgængelig for 79,-",
+                                   "subtitle" : "Kun tilgængelig for 79 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }],
                                  },
                                  {
                                    "title" : "M3-Beef Roganjosh og Chicken Kofta",
                                    "image_url" : "http://gdurl.com/2VdE",
-                                   "subtitle" : "Kun tilgængelig for 79,-",
+                                   "subtitle" : "Kun tilgængelig for 79 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M4-Chicken Tikka og Samosa",
                                    "image_url" : "http://gdurl.com/NkeOL",
-                                   "subtitle" : "Kun tilgængelig for 79,-",
+                                   "subtitle" : "Kun tilgængelig for 79 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M5-Kofta Butter Masala og Samosa (Veg)",
                                    "image_url" : "http://gdurl.com/Hq0P",
-                                   "subtitle" : "Kun tilgængelig for 89,-",
+                                   "subtitle" : "Kun tilgængelig for 89 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M6-Lam Korma og Beef Roganjosh",
                                    "image_url" : "http://gdurl.com/ZuLh",
-                                   "subtitle" : "Kun tilgængelig for 89,-",
+                                   "subtitle" : "Kun tilgængelig for 89 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M7-Chicken Tikka og Beef Roganjosh",
                                    "image_url" : "http://gdurl.com/x77y",
-                                   "subtitle" : "Kun tilgængelig for 89,-",
+                                   "subtitle" : "Kun tilgængelig for 89 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M8-Beef Roganjosh og Chicken Curry",
                                    "image_url" : "http://gdurl.com/2VdE",
-                                   "subtitle" : "Kun tilgængelig for 89,-",
+                                   "subtitle" : "Kun tilgængelig for 89 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M9-Lamb Korma og Chicken Kofta",
                                    "image_url" : "http://gdurl.com/NkeOL",
-                                   "subtitle" : "Kun tilgængelig for 89,-",
+                                   "subtitle" : "Kun tilgængelig for 89 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  },
                                  {
                                    "title" : "M10-Kofta Curry og Samosa (Veg)",
                                    "image_url" : "http://gdurl.com/Hq0P",
-                                   "subtitle" : "Kun tilgængelig for 99,-",
+                                   "subtitle" : "Kun tilgængelig for 99 kr, GRATIS FRAGT",
                                    "buttons": [{
-                                        "type": "web_url",
-                                        "url": "http://buffet-house.dk/Menu",
-                                        "title": "Bestil nu"
+                                        "type":"phone_number",
+                                        "title":"Bestil nu",
+                                        "payload": "+4570707649"
                                     }]
                                  }
                              ]
