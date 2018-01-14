@@ -214,7 +214,7 @@ def englishDefaultMenu(reqContext):
                  "attachment":{
                         "type":"image", 
                         "payload":{
-                        "url":"http://bit.ly/2DdL64J"
+                        "url":"https://drive.google.com/uc?export=download&id=1wAOyUlyPwUQQx8krCO1kyIF2pskTPWfw"
                      }
                  }
                },
@@ -1392,7 +1392,7 @@ def danishDefaultMenu(reqContext):
                  "attachment":{
                         "type":"image", 
                         "payload":{
-                        "url":"http://bit.ly/2DdL64J"
+                        "url":"https://drive.google.com/uc?export=download&id=1wAOyUlyPwUQQx8krCO1kyIF2pskTPWfw"
                      }
                  }
                },
