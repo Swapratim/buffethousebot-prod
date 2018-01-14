@@ -214,7 +214,7 @@ def englishDefaultMenu(reqContext):
                  "attachment":{
                         "type":"image", 
                         "payload":{
-                        "url":"http://gdurl.com/y0fi"
+                        "url":"http://bit.ly/2DdL64J"
                      }
                  }
                },
@@ -1392,7 +1392,7 @@ def danishDefaultMenu(reqContext):
                  "attachment":{
                         "type":"image", 
                         "payload":{
-                        "url":"http://gdurl.com/y0fi"
+                        "url":"http://bit.ly/2DdL64J"
                      }
                  }
                },
