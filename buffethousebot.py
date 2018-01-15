@@ -292,7 +292,7 @@ def specialoffer(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
-                "text": "Hurray!! " + user_name + ", You're the LUCKY WINNER of the day."
+                "text": "Hurray!! You're the LUCKY WINNER of the day."
                 },
                 {
                     "sender_action": "typing_on"
@@ -1538,7 +1538,7 @@ def specialtilbud(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
-                "text": "Hurray!! " + user_name + ", Du er dagens LYKKELIGE VINDER."
+                "text": "Hurray!!, Du er dagens LYKKELIGE VINDER."
                 },
                 {
                     "sender_action": "typing_on"
