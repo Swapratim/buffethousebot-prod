@@ -1186,12 +1186,6 @@ def engDefaultMenuOrderBooking(reqContext):
                  "text": "We also take order for party. Don't worry! We'll deliver food at your doorstep."
                 },
                 {
-                    "sender_action": "typing_on"
-                },
-                {
-                "text": "Order food online and get 20% OFF!!!"
-               },
-                {
                  "attachment":{
                         "type":"image", 
                         "payload":{
@@ -2439,9 +2433,6 @@ def danDefaultMenuOrderBooking(reqContext):
                         "url":"http://gdurl.com/QFrQ"
                      }
                  }
-                },
-                {
-                 "text": "Bestil online og få 20% tilbud"
                 },
                 {
                    "attachment":{
