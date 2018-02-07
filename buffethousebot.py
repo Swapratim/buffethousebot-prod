@@ -231,6 +231,12 @@ def englishDefaultMenu(reqContext):
                   "quick_replies": [
                  {
                   "content_type": "text",
+                  "title": "Birthday Freebies",
+                  "payload": "SPECIAL OFFER",
+                  "image_url": "https://images-na.ssl-images-amazon.com/images/I/41mbu0-fBaL.jpg"
+                 },
+                 {
+                  "content_type": "text",
                   "title": "Menu",
                   "payload": "Menu",
                   "image_url": "https://cdn1.iconfinder.com/data/icons/hotel-restaurant/512/16-512.png"
@@ -286,38 +292,19 @@ def specialoffer(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
-                "text": "Hurray!! You're the LUCKY WINNER of the day."
+                "text": "Welcome to Birthday Freebies Festival!"
                 },
                 {
                     "sender_action": "typing_on"
                 },
                 {
-                "text": "Here is your LUCKY COUPON"
+                "text": "Please share your Date of Birth"
                 },
                 {
                     "sender_action": "typing_on"
                 },
                 {
-                 "attachment":{
-                        "type":"image", 
-                        "payload":{
-                        "url":"https://gdurl.com/4WD4"
-                     }
-                 }
-               },
-                {
-                    "sender_action": "typing_on"
-                },
-                {
-                  "text": "Show this coupon to Buffet House reception and Enjoy the Royal Indian Buffet!",
-                  "quick_replies": [
-                 {
-                   "content_type": "text",
-                   "title": "Home",
-                   "payload": "Home",
-                   "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/77002-200.png"
-                  }
-                 ]
+                  "text": "We will remember your birthday. You will get a Birthday Gift from Buffet House. :)"
                 }
               ]
             }  
@@ -1460,9 +1447,9 @@ def danishDefaultMenu(reqContext):
                   "quick_replies": [
                  {
                   "content_type": "text",
-                  "title": "SPECIAL TILBUD",
+                  "title": "Fødselsdag Freebies",
                   "payload": "SPECIAL TILBUD",
-                  "image_url": "http://www.pricestickers.co.uk/ekmps/shops/pricestickers/images/special-offer-stickers-2056-p.png"
+                  "image_url": "https://images-na.ssl-images-amazon.com/images/I/41mbu0-fBaL.jpg"
                  },
                  {
                   "content_type": "text",
@@ -1521,38 +1508,19 @@ def specialtilbud(reqContext):
                     "sender_action": "typing_on"
                 },
                 {
-                "text": "Hurray!!, Du er dagens LYKKELIGE VINDER."
+                "text": "Velkommen til Fødselsdag Freebies Festival!"
                 },
                 {
                     "sender_action": "typing_on"
                 },
                 {
-                "text": "Her er din LUCKY COUPON"
+                "text": "Venligst del din fødselsdato"
                 },
                 {
                     "sender_action": "typing_on"
                 },
                 {
-                 "attachment":{
-                        "type":"image", 
-                        "payload":{
-                        "url":"https://gdurl.com/4WD4"
-                     }
-                 }
-               },
-                {
-                    "sender_action": "typing_on"
-                },
-                {
-                  "text": "Vis denne kupon til Buffet House modtagelse og nyd Royal Indian Buffet!",
-                  "quick_replies": [
-                 {
-                   "content_type": "text",
-                   "title": "Hjem",
-                   "payload": "Hjem",
-                   "image_url": "https://d30y9cdsu7xlg0.cloudfront.net/png/77002-200.png"
-                  }
-                 ]
+                  "text": "Vi vil huske din fødselsdag. Du får en fødselsdagsgave fra Buffet House. :)"
                 }
               ]
             }  
