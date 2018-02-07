@@ -231,12 +231,6 @@ def englishDefaultMenu(reqContext):
                   "quick_replies": [
                  {
                   "content_type": "text",
-                  "title": "SPECIAL OFFER",
-                  "payload": "SPECIAL OFFER",
-                  "image_url": "http://www.pricestickers.co.uk/ekmps/shops/pricestickers/images/special-offer-stickers-2056-p.png"
-                 },
-                 {
-                  "content_type": "text",
                   "title": "Menu",
                   "payload": "Menu",
                   "image_url": "https://cdn1.iconfinder.com/data/icons/hotel-restaurant/512/16-512.png"
@@ -426,11 +420,6 @@ def englishMenuCriteriaMenu(reqContext):
                                         "type": "postback",
                                         "title": "Menu Items",
                                         "payload": "Menu Items"
-                                    },
-                                    {
-                                        "type": "postback",
-                                        "title": "Special Offers",
-                                        "payload": "Special Offers"
                                     }]
                                  }
                            ]
