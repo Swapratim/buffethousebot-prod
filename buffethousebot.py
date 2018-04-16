@@ -135,7 +135,7 @@ def welcome():
                        "elements" : [ 
                                  {
                                    "title" : "Hi " + first_name + "! Welcome to Buffet House Restaurant" + emoji.emojize(':pray:', use_aliases=True),
-                                   "image_url" : "http://gdurl.com/OelL",
+                                   "image_url" : "http://gdurl.com/Yq57",
                                  } 
                            ]
                        } 
